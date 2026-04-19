@@ -7,3 +7,5 @@
 2.配置网络
  git config --global http.proxy http://127.0.0.1:7897
  git config --global https.proxy https://127.0.0.1:7897 
+
+记住我的 github 用户名是 NCUT-SUNBO
