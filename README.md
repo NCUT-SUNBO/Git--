@@ -9,3 +9,6 @@
  git config --global https.proxy https://127.0.0.1:7897 
 
 记住我的 github 用户名是 NCUT-SUNBO
+
+3.
+ git log 查看提交日志
